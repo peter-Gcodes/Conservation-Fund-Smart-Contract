@@ -1,0 +1,11 @@
+[project]
+name = "fund"
+authors = []
+description = ""
+telemetry = true
+requirements = []
+analysis = ["check_checker"]
+costs_version = 2
+[contracts.conservation]
+path = "contracts/conservation.clar"
+depends_on = []
